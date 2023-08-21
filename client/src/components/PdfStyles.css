@@ -1,0 +1,21 @@
+.transac-list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.transaction-container {
+  width: 300px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #ccc;
+  padding: 0px 20px;
+}
+.transac-list-heading {
+  display: flex;
+  justify-content: space-between;
+}
+.transactions {
+  display: flex;
+  justify-content: space-between;
+}
